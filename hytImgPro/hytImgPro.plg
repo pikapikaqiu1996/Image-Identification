@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: hytImgPro - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA4D.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/hytImgPro.pdb" /debug /machine:I386 /out:"Debug/hytImgPro.exe" /pdbtype:sept 
+".\Debug\DIBAPI.OBJ"
+".\Debug\DlgGrayStre.obj"
+".\Debug\DlgPowerTrans.obj"
+".\Debug\hytImgPro.obj"
+".\Debug\hytImgProDoc.obj"
+".\Debug\hytImgProView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\hytImgPro.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA4D.tmp"
+<h3>Output Window</h3>
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/hytImgPro.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\DIBAPI.SBR" ".\Debug\DlgGrayStre.sbr" ".\Debug\DlgPowerTrans.sbr" ".\Debug\hytImgPro.sbr" ".\Debug\hytImgProDoc.sbr" ".\Debug\hytImgProView.sbr" ".\Debug\MainFrm.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+hytImgPro.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
